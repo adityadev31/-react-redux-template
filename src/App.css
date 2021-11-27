@@ -1,0 +1,21 @@
+.app_box_wrapper {
+   width: 100vw;
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.app_box {
+   width: 300px;
+   background-color: red;
+   text-align: center;
+}
+
+.app_btnBox {
+   width: 100%;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 1rem 2rem;
+}

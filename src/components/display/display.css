@@ -1,0 +1,9 @@
+.display_wrapper {
+   width: 100%;
+}
+
+.display_wrapper h1 {
+   padding: 10px;
+   font-size: 3rem;
+   color: #fff;
+}
